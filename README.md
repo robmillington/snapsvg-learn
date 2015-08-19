@@ -1,1 +1,3 @@
 # snapsvg-learn
+
+This is beginning of learning some cool shit...
